@@ -16,9 +16,8 @@ I thrive at the intersection of backend systems, data modeling, and intuitive in
 
 ## 🛠️ Skills
 
-**Core Programming:** C++, Python, TypeScript, SQL  
+**Core Programming:** C++, Python, TypeScript, SQL, Java
 **Systems:** Database modeling with MySQL, command-line interfaces, API-driven backend logic  
-**Engineering Mindset:** Toolsmithing, automation pipelines, modular code and strong abstractions  
 **Principles I Follow:** Clean code, user‑focused design, extensibility and maintainability  
 
 ---
