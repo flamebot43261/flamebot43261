@@ -8,7 +8,7 @@
 
 ## 🧠 About Me
 
-I love bringing together clean logic and real-world workflows. Through projects like a smart calendar event creation app written in TypeScript and Python, and a C++ CLI simulating a vinyl record store backed by a MySQL database, I sharpened my skills in full‑stack integration, database design, and scalable architecture.
+Through projects like a smart calendar event creation app written in TypeScript and Python, and a C++ CLI simulating a vinyl record store backed by a MySQL database, I sharpened my skills in full‑stack integration, database design, and scalable architecture.
 
 I thrive at the intersection of backend systems, data modeling, and intuitive interfaces—automating work, clarifying complexity, and making tools that just fit.
 
